@@ -1,2 +1,2 @@
 # PacificTrails
-A website designed and developed for class. The website is for a California resort.
+A website designed and developed for a fictional California resort.
